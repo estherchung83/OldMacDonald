@@ -1,7 +1,5 @@
 
-void setup()
-{
-	//your variable declarations and
-	//System.out.println() statements here
+Farm bob = new Farm();
+public void setup() {     
+   bob.animalSounds();
 }
-
